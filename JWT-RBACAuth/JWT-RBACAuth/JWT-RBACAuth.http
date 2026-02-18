@@ -1,0 +1,6 @@
+@JWT_RBACAuth_HostAddress = http://localhost:5217
+
+GET {{JWT_RBACAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
